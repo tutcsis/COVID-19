@@ -1,6 +1,7 @@
 # COVID-19
-This repository is an official page for our research to develop a new dataset of citation functions from COVID-19-related academic papers. 
+This repository is an official page for our research to develop a new dataset of citation functions from COVID-19-related academic papers using automatic approach.  Because the preparation of new training data requires much human effort and is time-consuming, this paper uses our previous citation functions that were built for the Computer Science (CS) domain, which consists of five coarse labels and 21 fine-grained labels.
 
+ 
 
 ## Labeling scheme of citation functions
 The proposed scheme consists of two parts, five coarse labels, and 21 fine-grained labels.
